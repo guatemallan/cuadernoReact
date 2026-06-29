@@ -9,7 +9,7 @@ Este entrenamiento es parte de los cursos [*React y TypeScript - La Guía Comple
 
 Este cuaderno se complementa con otros repositorios para completar la ruta de entrenamiento:
 
-{ [HTML](https://github.com/guatemallan/cuadernoHtmlCss/) → [CSS](https://github.com/guatemallan/cuadernoHtmlCss/) → [JavaScript](#contenidos-javascript) → React (TBD) }
+{ [HTML](https://github.com/guatemallan/cuadernoHtmlCss/) → [CSS](https://github.com/guatemallan/cuadernoHtmlCss/) → [JavaScript](#contenidos-javascript) → [React](https://github.com/guatemallan/cuadernoReact) }
 
 Java(TBD) ⤶ ⤷ IA(TBD)
 
