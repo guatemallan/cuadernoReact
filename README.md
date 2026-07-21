@@ -26,3 +26,21 @@ Se basa en componentes, definidos como funciones de JS que se utilizan para defi
 Creado y mantenido por Meta. Bercel también se ha involucrado en su mantenimiento. 
 
 [Mas información aquí](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started).
+
+# Fundamenots de JavaScript requeridos:
+- let y const
+- Promises
+- Arreglos y Objetos (y métodos)
+- Eventos
+- DOM
+- Async / Await
+- ESM
+- APIs JS
+
+# Contenidos del entrenamiento
+
+1. Repaso de JavaScript
+    1. [Variables](apuntes.md#variables)
+    2. [Tipos de dato](apuntes.md#tipos-de-dato)
+    3. [Objetos](apuntes.md#objetos)
+    4. [Manipulación de objetos]()
